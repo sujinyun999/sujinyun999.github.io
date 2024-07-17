@@ -38,7 +38,7 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 - **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
-**Sujin Yun**, Jaewoo Lee\*, Taeyoung Yun, Jinkyoo Park \\
+Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
 *ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
 
 
