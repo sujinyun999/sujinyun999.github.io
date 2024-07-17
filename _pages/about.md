@@ -19,7 +19,9 @@ redirect_from:
 
 **MS student in Graduate School of Data Science at KAIST**
 
-I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park). My research focuses on intersection of deep learning, decision making and generative models. Here is my <a href="https://sujinyun999.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park). My research focuses on intersection of deep learning, decision making and generative models. 
+
+<!-- Here is my <a href="https://sujinyun999.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.-->
 
 
 # 🔥 News
