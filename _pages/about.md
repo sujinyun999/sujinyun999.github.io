@@ -19,7 +19,8 @@ redirect_from:
 
 **MS student in Graduate School of Data Science at KAIST**
 
-I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park). My research focuses on intersection of deep learning, decision making and generative models. Here is my <a href="https://sujinyun999.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park). My research focuses on intersection of deep learning, decision making and generative models. 
+<!-- Here is my <a href="https://sujinyun999.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>. -->
 
 
 # 🔥 News
@@ -38,8 +39,8 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 - **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
-**Sujin Yun**, Jaewoo Lee\*, Taeyoung Yun, Jinkyoo Park \\
-*ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
+Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park (\*: equal contribution)\\
+*ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)* (*: equal contribution)
 
 
 
