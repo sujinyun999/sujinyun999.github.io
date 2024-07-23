@@ -58,4 +58,12 @@ Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park (\*: equal contributio
 
 # 💻 Work Experience
 - *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
-- *Mar 2021 - Oct 2021*, Data Science Team, Voithru
+- *Mar 2021 - Aug 2021*, Data Science Team, Voithru
+
+
+# 🧰 Industry Project
+- *Apr 2023 - Oct 2023*, Automated Control of Compressor Operations through offline RL, Samsung Heavy Industry
+
+
+# 📚 Teaching Experience
+- *Mar 2024 - Jun 2023*, IE437: Data-Driven Decision Making and Control, KAIST
