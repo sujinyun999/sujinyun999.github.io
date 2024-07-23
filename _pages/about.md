@@ -31,6 +31,8 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 ([C]: Conference, [W]: Workshop, [P]: Preprint)
 <!-- # [J]: Journal, -->
 
+\*: Equal contribution
+
 - **[P] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
  Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park
 
@@ -39,7 +41,7 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
 - **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
-Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park (\*: equal contribution)\\
+Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
 *ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
 
 
