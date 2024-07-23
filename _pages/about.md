@@ -56,14 +56,17 @@ Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park (\*: equal contributio
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Work Experience
-- *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
-- *Mar 2021 - Aug 2021*, Data Science Team, Voithru
-
 
 # 🧰 Industry Project
 - *Apr 2023 - Oct 2023*, Automated Control of Compressor Operations through offline RL, Samsung Heavy Industry
 
 
+# 💻 Work Experience
+- *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
+- *Mar 2021 - Aug 2021*, Data Science Team, Voithru
+
+
+
 # 📚 Teaching Experience
 - *Mar 2024 - Jun 2023*, IE437: Data-Driven Decision Making and Control, KAIST
+
