@@ -36,17 +36,13 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 - **[C] An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems** [[paper]](https://arxiv.org/abs/2408.07327), [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Mincheol Kwon, Kyujin Choi, Yoohyeon Lee, Jinkyoo Park \\
-*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
+*ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024* 
 
 - **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
 Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
 *ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
 
 
-
-<!-- # 🎖 Honors and Awards
-- *2021.09* Dean's List (Honor for Top 2% Students). 
-- *2021.12* Excellence Award on DACON NH Big Data Competition. -->
 
 # 📖 Educations
 - *Mar 2023 - Feb 2025 (Expected)*, M.S in Graduate School of Data Science, KAIST (SILAB)
