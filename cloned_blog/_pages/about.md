@@ -45,18 +45,24 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 # 📖 Educations
 - *Mar 2023 - Feb 2025 (Expected)*, M.S in Graduate School of Data Science, KAIST (SILAB)
 - *Mar 2018 - Feb 2023*, B.S Industrial Engineering, Yonsei University
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+  
 # 🧰 Industry Project
 - *Apr 2023 - Oct 2023*, Automated Control of Compressor Operations through offline RL, Samsung Heavy Industry
+
+  
 # 💻 Work Experience
 - *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
 - *Mar 2021 - Aug 2021*, Data Science Team, Voithru
+
+  
 # 📚 Teaching Experience
 - *Mar 2024 - Jun 2024*, IE437: Data-Driven Decision Making and Control, KAIST
 
 
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 <!-- # 🎖 Honors and Awards
 - *2021.09* Dean's List (Honor for Top 2% Students). 
 - *2021.12* Excellence Award on DACON NH Big Data Competition. -->
