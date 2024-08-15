@@ -33,7 +33,7 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 - **[P] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
  Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park
 
-- **[C] An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems** [[paper]](https://doi.org/10.1145/3637528.3671606), [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
+- **[C] An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems** [[paper]](https://arxiv.org/abs/2408.07327), [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Mincheol Kwon, Kyujin Choi, Yoohyeon Lee, Jinkyoo Park \\
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
 
