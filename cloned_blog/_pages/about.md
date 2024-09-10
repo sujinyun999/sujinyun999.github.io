@@ -60,21 +60,19 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 - *Mar 2024 - Jun 2024*, IE437: Data-Driven Decision Making and Control, KAIST
 
 
+ # 🤸 Extracurricular Activities
+- *Jan 2022 - Dec 2022*, YAI: Yonsei Artificial Intelligence club
+  - Served as a club president
+  - Conduct seminars about learning on graph(GNN, Stanford CS224W)
+- *Jan 2021 - Dec 2021*, Ybigta: Yonsei Bigdata club
+  - Project about training a chatbot agent with an emotion persona using a Korean emotion classification dataset and serving it through a messenger app.
+  - Conduct seminars about transformers in natural language processing
+
+# 🎖 Honors and Awards
+- *Nov 2021* 2nd Place on CJ logistics AI/Big data System Future Technology Challenge
+
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-<!-- # 🎖 Honors and Awards
-- *2021.09* Dean's List (Honor for Top 2% Students). 
-- *2021.12* Excellence Award on DACON NH Big Data Competition. -->
 
-<!--# 📖 Educations
-- *Mar 2023 - Feb 2025 (Expected)*, M.S in Graduate School of Data Science, KAIST (SILAB)
-- *Mar 2018 - Feb 2023*, B.S Industrial Engineering, Yonsei University-->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!--# 💻 Work Experience
-- *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
-- *Mar 2021 - Oct 2021*, Data Science Team, Voithru-->
