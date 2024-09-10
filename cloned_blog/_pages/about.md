@@ -69,7 +69,7 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
   - Conduct seminars about transformers in natural language processing
 
 # 🏅 Honors and Awards
-- *Nov 2021* 2nd Place on CJ logistics AI/Big data System Future Technology Challenge
+- *Nov 2021*, 2nd Place on CJ logistics AI/Big data System Future Technology Challenge
 
 
 <!-- # 💬 Invited Talks
