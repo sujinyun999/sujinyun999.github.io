@@ -31,7 +31,8 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 <!-- # [J]: Journal, -->
 
 - **[P] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
- Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park
+ Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park\\
+*Neurips 2024 Under review*
 
 - **[C] An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems** [[paper]](https://arxiv.org/abs/2408.07327), [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Mincheol Kwon, Kyujin Choi, Yoohyeon Lee, Jinkyoo Park \\
@@ -39,7 +40,7 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 
 - **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
 **Sujin Yun**, Jaewoo Lee\*, Taeyoung Yun, Jinkyoo Park \\
-*ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
+*ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight), Neurips 2024 Under review*
 
 
 # 📖 Educations
