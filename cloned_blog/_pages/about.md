@@ -27,9 +27,9 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 - *March 2024*: &nbsp;🎉🎉 One paper accepted (Spotlight) to ICLR 2024 Workshop on Generative Models for Decision Making
 
 # 📝 Publications 
-([C]: Conference, [W]: Workshop, [P]: Preprint)
+([C]: Conference, [W]: Workshop, [P]: Preprint) \\
 <!-- # [J]: Journal, -->
-\* indicates equal contribution.\\
+\* indicates equal contribution. \\
 - **[P] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
  Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park\\
 *Neurips 2024 Under review*
