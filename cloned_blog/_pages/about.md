@@ -23,6 +23,7 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 
 # 🔥 News
+- *Sep 2024*: &nbsp;🎉🎉 Two papers accepted to Neurips 2024
 - *May 2024*: &nbsp;🎉🎉 One paper accepted to KDD 2024
 - *March 2024*: &nbsp;🎉🎉 One paper accepted (Spotlight) to ICLR 2024 Workshop on Generative Models for Decision Making
 
@@ -30,18 +31,18 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 ([C]: Conference, [W]: Workshop, [P]: Preprint) \\
 <!-- # [J]: Journal, -->
 \* indicates equal contribution.   
-- **[P] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
+
+- **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
+ Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
+*Neurips 2024, ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
+
+- **[C] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
  Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park\\
-*Neurips 2024 Under review*
+*Neurips 2024*
 
 - **[C] An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems** [[paper]](https://arxiv.org/abs/2408.07327), [[code]](https://github.com/dbsxodud-11/offline_meta_bbo)\\
 Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Mincheol Kwon, Kyujin Choi, Yoohyeon Lee, Jinkyoo Park \\
 *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024*
-
-- **[W] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
- Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
-*ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight), Neurips 2024 Under review*
-
 
 # 📖 Educations
 - *Mar 2023 - Feb 2025 (Expected)*, M.S in Graduate School of Data Science, KAIST (SILAB)
@@ -63,11 +64,13 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 
 # 🤸 Extracurricular Activities
 - *Jan 2022 - Dec 2022*, YAI: Yonsei Artificial Intelligence club
-  - Served as a club president
-  - Conduct seminars about learning on graph(GNN, Stanford CS224W)
+  - Served as the president of the club, leading overall club activities and managing members
+  - Organized and led seminars on graph learning, based on Stanford's CS224w course
+  - Organized and led seminars on Natural Language Processing with Deep Learning, based on Stanford's CS224n course
 - *Jan 2021 - Dec 2021*, Ybigta: Yonsei Bigdata club
-  - Project about training a chatbot agent with an emotion persona using a Korean emotion classification dataset and serving it through a messenger app.
-  - Conduct seminars about transformers in natural language processing
+  - Led a project to develop a chatbot with emotion-based personas, using a Korean emotion classification dataset, and serve it via a messenger app
+  - Conducted a study group focusing on research papers about transformers in natural language processing
+  - Participate in a Docker study group, exploring containerization concepts and applications in real-world
 
 # 🏅 Honors and Awards
 - *Nov 2021*, 2nd Place on CJ logistics AI/Big data System Future Technology Challenge
