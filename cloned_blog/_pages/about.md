@@ -34,7 +34,7 @@ I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; 
 
 - **[C] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
  Jaewoo Lee\*, **Sujin Yun**\*, Taeyoung Yun, Jinkyoo Park \\
-*Neurips 2024, ICLR 2024 Workshop: Generative Models for Decision Making (Spotlight)*
+*Neurips 2024 (based on the preliminary version of the ICLR GenAI4DM Workshop)*
 
 - **[C] Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization** [[paper]](https://arxiv.org/abs/2407.01624), [[code]](https://github.com/dbsxodud-11/GTG)\\
  Taeyoung Yun, **Sujin Yun**, Jaewoo Lee, Jinkyoo Park\\
