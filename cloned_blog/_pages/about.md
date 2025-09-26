@@ -64,7 +64,7 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 
   
 # 💻 Work Experience
-- *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
+- *Feb 2025 - Aug 2025*, AD planning & Control Team, NaverLabs
 - *Jan 2023 - Feb 2023*, Data Science Team, CJ Logistics
 - *Mar 2021 - Aug 2021*, Data Science Team, Voithru
 
