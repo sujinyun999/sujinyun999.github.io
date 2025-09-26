@@ -20,7 +20,7 @@ redirect_from:
 **MS student in Graduate School of Data Science at KAIST**
 
 
-I am interested in Generative models(diffusion models, LLMs,..) and Reinforcement Learning.
+I am interested in Generative models(diffusion models, LLMs,..) and Reinforcement Learning. \\
 I am a PhD student at [Mila](https://mila.quebec/en) supervised by [Aaron Courville](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en), with a Bachelor’s  degree from Yonsei university and a Master’s degree from the KAIST supervised by [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=en).  
 <!-- I am a member of the <a href="http://silab.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">Systems Intelligence Lab</a> (advised by Prof. Jinkyoo Park). My research focuses on intersection of deep learning, decision making and generative models. Here is my <a href="https://sujinyun999.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>. -->
 
