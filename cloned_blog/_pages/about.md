@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**MS student in Graduate School of Data Science at KAIST**
 
 
 I am interested in Generative models(diffusion models, LLMs,..) and Reinforcement Learning. \\
