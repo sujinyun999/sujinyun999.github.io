@@ -24,12 +24,12 @@ github           : [metadata]
 author:
   name             : "Sujin Yun"
   avatar           : "images/profile.jpg"
-  bio              : "MS Student at KAIST"
-  location         : "Daejeon, Korea"
+  bio              : "Ph.D. Student at MILA"
+  location         : "Montréal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wpTfpnIAAAAJ&hl"
-  email            : "yunsj0625@kaist.ac.kr"
+  email            : "sujin.yun@mila.quebec"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
