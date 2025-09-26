@@ -58,7 +58,8 @@ Taeyoung Yun\*, Kanghoon Lee\*, **Sujin Yun**,  Ilmyung Kim, Wonwoo Jung, Minche
 *KDD 2024*
 
 # 📖 Educations
-- *Sep 2025 - *, Ph.D. student in Informatique, Université de Montréal (MILA)
+
+- *Sep 2025 - Current*, Ph.D. student in Informatique, Université de Montréal (MILA)
 - *Mar 2023 - Feb 2025*, M.S in Graduate School of Data Science, KAIST (SILAB)
 - *Mar 2018 - Feb 2023*, B.S Industrial Engineering, Yonsei University
 
