@@ -37,11 +37,11 @@ I am a PhD student at [Mila](https://mila.quebec/en) supervised by [Aaron Courvi
 
 - **[C] Wind Farm Layout Optimization with Diffusion Models** [[paper]](https://dl.acm.org/doi/abs/10.1145/3711896.3737181)\\
  Yujin Shin\*, Taeyoung Yun\*, **Sujin Yun**, Sungpil Woo, Sunhwan Lim, Jinkyoo Park\\
-*KDD 2024*
+*KDD 2025*
 
 - **[C] Posterior inference with diffusion models for high-dimensional black-box optimization** [[paper]](https://arxiv.org/abs/2502.16824?), [[code]](https://github.com/umkiyoung/DiBO)\\
  Taeyoung Yun\*, Kiyoung Om\*, Jaewoo Lee, **Sujin Yun**, Jinkyoo Park\\
-*Neurips 2024*
+*ICML 2025*
 
 
 - **[C] GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning** [[paper]](https://arxiv.org/abs/2405.16907), [[code]](https://github.com/Jaewoopudding/GTA)\\
